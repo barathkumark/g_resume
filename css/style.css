@@ -34,31 +34,16 @@
     border-bottom: 2px solid #FFCC73;
 }
 
-/* .navbar-dark .navbar-nav .nav-item .nav-link:focus {
-    color: var(--heading-color)!important;
-    border-bottom: 2px solid #FFCC73;
-} */
-
 .navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link {
     color: var(--desc-color);
     -webkit-transition: .35s;
     transition: .35s;
 }
 
-/* .navbar-nav .nav-item .active {
-    color: var(--headling-color);
-    border-bottom: 2px solid var(--heading-color);
-} */
-
 /* My Resume text */
 .navbar-brand {
     color: var(--heading-color)!important;
 }
-
-/* .navbar.navbar-dark .navbar-nav .nav-item.active>.nav-link {
-    background-color: transparent!important;
-    color: #ffcc73;
-} */
 
 .h-650px {
     height: 650px;
