@@ -340,19 +340,17 @@
     }
 }
 
-
-
 .project {
     /* background: var(--heading-color);  */
         background-color: rgba(0, 0, 0, 0.55);
-    height: 150px;
+    height: 60px;
     border-radius: 0px 0px 8px 8px ;
 }
 
 .project:hover {
     /* background: var(--heading-color);  */
-        background-color: rgba(0, 0, 0, 0.55);
-    height: 200px;
+    background-color: rgba(0, 0, 0, 0.55);
+    height: 100px;
     transition: 1s;
 }
 
